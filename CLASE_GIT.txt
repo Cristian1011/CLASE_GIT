@@ -1,1 +1,11 @@
 CLASE 2 ADA GITHUB 
+comands
+git -- version 
+git init
+git config --global user.email "cristianempgomez@gmail.com"
+git config --global user.name "CRISTIAN GOMEZ B"
+git add CLASE_GIT.txt
+git add .
+git status
+git commit-m"comentario"
+git restore
